@@ -22,5 +22,6 @@
                 "codespace.md" //Que es?
             ]
         }
-    }
+    },
+    "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
   }
