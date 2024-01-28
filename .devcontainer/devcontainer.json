@@ -12,7 +12,9 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "GitHub.copilot" // Muy interesante, Como funciona?
+                "GitHub.copilot", // Muy interesante, Como funciona?
+                "PKief.material-icon-theme",
+                "ritwickdey.LiveServer"
             ]
         },
         "codespaces": {
