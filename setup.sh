@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#! para que es esta configuracion?
 sudo apt-get update
 sudo apt-get install sl
 
